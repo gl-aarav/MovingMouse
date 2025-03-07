@@ -17,10 +17,6 @@ import java.awt.event.MouseListener;
 
 public class MouseMovingEx
 {
-	public MouseMovingEx()
-	{
-		
-	}
 
 	public static void main(String[] args)
 	{
